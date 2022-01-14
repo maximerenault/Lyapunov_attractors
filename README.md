@@ -1,6 +1,7 @@
 # Lyapunov_attractors
 Short code that generates beautiful images from pseudo-random number generation and chaotic series.
-Original inspiration from Paul Bourke http://paulbourke.net/fractals/lyapunov/ .\n
+Original inspiration from Paul Bourke http://paulbourke.net/fractals/lyapunov/ .
+
 I also integrated a way to reproduce results even though they were generated at random, and so be able to change the color or the size of the image (for a big print for example).
 
 ![6706](https://user-images.githubusercontent.com/69993865/149515147-b792b61c-4214-4558-abd6-ffe1f9c3deb3.jpg)
