@@ -7,4 +7,5 @@ I also integrated a way to reproduce results even though they were generated at 
 ![6706](https://user-images.githubusercontent.com/69993865/149515147-b792b61c-4214-4558-abd6-ffe1f9c3deb3.jpg)
 ![1435](https://user-images.githubusercontent.com/69993865/149515241-e1f2806d-c1f5-4d98-83e3-6fe8d0332ffc.jpg)
 ![186](https://user-images.githubusercontent.com/69993865/149515286-e6333d5d-3ab1-4633-ba38-826a75f38536.jpg)
-![721](https://user-images.githubusercontent.com/69993865/149515304-ae37f3d8-8e63-4db1-a26f-1cc9ba9a869b.jpg)
+![x_-0 055010_y_0 399899_ax_-0 620075_-0 071841_-0 802210_-1 838130_-0 685751_1 731193_ay_0 061831_0 919279_1 542222_1 764031_1 372906_-0 931852](https://user-images.githubusercontent.com/69993865/149657996-94515595-cab9-451c-898d-f161582ed62b.jpg)
+
