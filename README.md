@@ -1,5 +1,5 @@
 # Lyapunov_attractors
-Short code that generates beautiful images from pseudo-random number generation and chaotic series.
+Short code that generates beautiful images from pseudo-random number generation and chaotic series. With these settings you can have approximately 3 images for a thousand tests.
 Original inspiration from Paul Bourke http://paulbourke.net/fractals/lyapunov/ .
 
 I also integrated a way to reproduce results even though they were generated at random, and so be able to change the color or the size of the image (for a big print for example).
