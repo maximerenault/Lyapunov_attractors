@@ -4,6 +4,8 @@ Original inspiration from Paul Bourke http://paulbourke.net/fractals/lyapunov/ .
 
 I also integrated a way to reproduce results even though they were generated at random, and so be able to change the color or the size of the image (for a big print for example).
 
+With the option 'video' you can also generated an animated version of these figures in mp4 format.
+
 ![6706](https://user-images.githubusercontent.com/69993865/149515147-b792b61c-4214-4558-abd6-ffe1f9c3deb3.jpg)
 ![1435](https://user-images.githubusercontent.com/69993865/149515241-e1f2806d-c1f5-4d98-83e3-6fe8d0332ffc.jpg)
 ![186](https://user-images.githubusercontent.com/69993865/149515286-e6333d5d-3ab1-4633-ba38-826a75f38536.jpg)
